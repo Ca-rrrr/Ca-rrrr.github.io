@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          Ca-rrrr
+bio:            'carr'
+description:    "Dev"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            https://ca-rrrr.github.io/
 
 # Jekyll
 permalink:      /:title/
@@ -32,7 +32,7 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: Ca-rrrr
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
